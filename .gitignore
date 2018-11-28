@@ -75,3 +75,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Assets files
+/Content/InfinityBladeIcelands
+/Content/ParagonGreystone
+/Content/ParagonSevarog
+/Content/StarterContent
