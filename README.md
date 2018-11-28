@@ -12,3 +12,6 @@ Introduction sur les cinématiques via avec UE4
 
 * Venez rejoindre la communauté de confiture, on donne souvent des astuces pour vous aider sur le développement du jeu vidéo, et si jamais vous avez des problèmes liés à ce workshop je pourrais vous aider directement dessus (en vocal/physique si besoin) 
 https://discord.gg/YdHV9Aq
+
+## Version Unreal engine
+* Ce workshop a été réalisé avec la version **4.20.3** d'unreal engine 4
