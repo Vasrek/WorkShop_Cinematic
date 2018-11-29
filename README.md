@@ -15,3 +15,6 @@ https://discord.gg/YdHV9Aq
 
 ## Version Unreal engine
 * Ce workshop a été réalisé avec la version **4.20.3** d'unreal engine 4
+
+## Youtube
+* Lien de la cinématique réalisé lors du workshop : https://youtu.be/OVd3lKWnBl4
